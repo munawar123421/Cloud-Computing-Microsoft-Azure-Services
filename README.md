@@ -21,3 +21,9 @@
 
 ### 🧠 Lecture Topic
 **Learn how to manage access and permissions in Azure using the free Azure for Students subscription. This task focuses on creating users, assigning roles, and verifying permissions within a resource group, providing practical experience with Azure's Role-Based Access Control (RBAC) and Identity and Access Management (IAM).**
+
+## 📘 Lecture 13 – Azure Database Services Hands-On Lab (Compatible with Azure for Students Subscription)
+
+### 🧠 Lecture Topic
+
+**Learn how to deploy and manage Azure database services using the free Azure for Students subscription. This task focuses on creating and interacting with Azure SQL Database and Cosmos DB (SQL API), providing practical experience with deployment, data interaction, and configuration of Azure-managed database services.**
