@@ -27,3 +27,9 @@
 ### 🧠 Lecture Topic
 
 **Learn how to deploy and manage Azure database services using the free Azure for Students subscription. This task focuses on creating and interacting with Azure SQL Database and Cosmos DB (SQL API), providing practical experience with deployment, data interaction, and configuration of Azure-managed database services.**
+
+## 📘 Lecture 14 - Deploying & Managing Azure SQL Databases (Compatible with Azure for Students Subscription)
+
+### 🧠 Lecture Topic
+
+**Learn how to deploy and configure Azure SQL Databases using the free Azure for Students subscription. This task provides hands-on experience with database deployment, security configuration, SQL operations, and connection string management for application integration.**
