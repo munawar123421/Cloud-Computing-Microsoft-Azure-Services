@@ -15,3 +15,9 @@
 
 ### 🧠 Assignment Topic
 **Learn to create a simple website, deploy it to Azure App Service, and manage the deployment using Visual Studio Code.**
+
+# LECTURES WORK
+## 📘 Lecture12 – Managing Access & Permissions in Azure (Compatible with Azure for Students Subscription)
+
+### 🧠 Lecture Topic
+**Learn how to manage access and permissions in Azure using the free Azure for Students subscription. This task focuses on creating users, assigning roles, and verifying permissions within a resource group, providing practical experience with Azure's Role-Based Access Control (RBAC) and Identity and Access Management (IAM).**
