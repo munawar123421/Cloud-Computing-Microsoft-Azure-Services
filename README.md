@@ -4,7 +4,7 @@
 ### 🧠 Quiz Topic
 **Set up a secure Azure Virtual Network (VNet)** with multiple subnets, configure **Network Security Groups (NSGs)**, and enable **communication between two Virtual Machines (VMs)**.
 
-## CC_QUIZZNO1 –Azure Cloud Container Tasks – Quizz 2
+## 📘 CC_QUIZZNO2 –Azure Cloud Container Tasks 
 
 ### 🧠 Quiz Topic
 **This README outlines the steps completed for deploying containers and applications in Azure using Azure Container Instances and Azure Kubernetes Service (AKS). It includes three tasks: deploying a sample container, deploying an NGINX app on AKS, and an explanation of AKS's purpose.**
